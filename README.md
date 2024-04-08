@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
     <meta charset='utf-8'>
@@ -10,6 +10,3 @@
     <FONT FACE="ARIAL" aria-setsize="5">
         <p> 3YIT CHWYA 3LA SITE
             <p>CHWIIIIIIIIIIIYA
-    </FONT>
-</body>
-</html>
